@@ -1,0 +1,48 @@
+.bg-container{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/691/365/large_2x/navy-blue-gradient-geometric-background-vector.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.navbar {
+    background-color:rgba(255, 255, 255, 0.5);; /* Transparent background with black tint */
+    border-radius: 10px;
+    padding: 10px;
+}
+.image-logo{
+    height:50%;
+    width:55%;
+}
+h1 {
+    font-size:50px;
+    font-style: italic;
+    font-weight: bold;
+    margin:20%;
+    text-decoration: underline;
+    color: #00ff99;
+
+}
+#navItem1{
+    color:#fff;
+    padding-right:20px;
+    font-size: 20px;
+}
+#navItem2{
+    color:#fff;
+    padding-right: 20px;
+    font-size: 20px;
+}
+#navItem3{
+    color:#fff;
+    padding-right: 20px;
+    font-size: 20px;
+}
+#navItem4{
+    color:#fff;
+    padding-right: 20px;
+    font-size: 20px;
+}
+#navItem5{
+    color:#fff;
+    padding-right: 20px;
+    font-size: 20px;
+}
